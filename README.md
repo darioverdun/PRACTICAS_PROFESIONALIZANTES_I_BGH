@@ -4,7 +4,7 @@ Practicas profesionalizantes I BGH
 ¡Bienvenido al repositorio de la base de datos elaborada en Power BI para la materia Prácticas Profesionalizantes 1!
 
 # Descripción
-Este repositorio contiene la base de datos elaborada en Power BI, la cual es de uso compartido por los miembros del equipo de trabajo. Esta base de datos fue desarrollada como parte de los proyectos asignados en la materia Prácticas Profesionalizantes 1 del Centro Politécnico Malvinas Argentinas, correspondiente a la carrera Técnico Superior en Ciencias de Datos e Inteligencia Artificial.
+Este repositorio contiene la base de datos elaborada en Power BI, la cual es de uso compartido por los miembros del equipo de trabajo. Esta base de datos fue desarrollada como parte de los proyectos asignados en la materia Prácticas Profesionalizantes 1 del Centro Politécnico Malvinas Argentinas, correspondiente a la carrera Técnico Superior en Ciencias de Datos e Inteligencia Artificial. 
 
 # Acerca de la Materia
 Prácticas Profesionalizantes 1 es una materia fundamental en nuestra formación como técnicos superiores en ciencias de datos e inteligencia artificial. En esta asignatura, tenemos la oportunidad de aplicar los conocimientos teóricos adquiridos en un entorno práctico, colaborando en proyectos reales y enfrentando desafíos del mundo laboral.
